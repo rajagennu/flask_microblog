@@ -17,7 +17,7 @@ def index():
 
 ,    {
       'author' : { 'username' : "Dippa"},
-      'body' : 'The Avengers movie is so cool!'
+      'body' : 'The Post is from Codenvy testing!'
     }
 
   ]
